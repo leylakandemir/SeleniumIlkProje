@@ -17,6 +17,6 @@ public class Day02_TitleUrlTest {
         }else{
             System.out.println("Maalesef yok");
         }
-webDriver.quit();
+    webDriver.quit();
     }
 }
